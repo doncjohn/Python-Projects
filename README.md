@@ -1,2 +1,2 @@
-# PYTHON PROJECTS
-Python projects for aspiring developers
+# Python Projects
+Python projects for Aspiring Developers
